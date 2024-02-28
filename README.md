@@ -14,7 +14,9 @@ The Extended Timing Annotation Dataset (ETAD) for Copernicus Sentinel-1 is a new
 
   
 ![ETAD NETCDF Structure](./docs/etad.jpeg)
-*TAD NetCDF structure. Each product covers a complete Sentinel-1 data-take following the SLC product structure. The correction layers are regularly sampled 2-D grids with approximately 200 m resolution that are grouped at burst level. Credit ESA (https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1/data-products/etad-dataset)*
+
+
+*ETAD NetCDF structure. Each product covers a complete Sentinel-1 data-take following the SLC product structure. The correction layers are regularly sampled 2-D grids with approximately 200 m resolution that are grouped at burst level. Credit ESA (https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1/data-products/etad-dataset)*
   
 
 # Credentials
