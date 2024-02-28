@@ -2,7 +2,7 @@
 
 Download and apply the extended time annotation dataset (ETAD) product to a sentinel-1 SLC. 
 
-This notebook fills a gap to demonstrate the complete processing of downloading all required files and applying the ETAD product to generate a corrected Sentinel-1 SLC product.
+This notebook fills a gap to demonstrate the complete process of downloading all required files and applying the ETAD product to generate a corrected Sentinel-1 SLC product.
 
   
 
