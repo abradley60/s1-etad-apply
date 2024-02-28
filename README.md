@@ -19,25 +19,27 @@ The Extended Timing Annotation Dataset (ETAD) for Copernicus Sentinel-1 is a new
 *ETAD NetCDF structure. Each product covers a complete Sentinel-1 data-take following the SLC product structure. The correction layers are regularly sampled 2-D grids with approximately 200 m resolution that are grouped at burst level. Credit ESA (https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1/data-products/etad-dataset)*
   
 
-# Credentials
-
-  
-
-The ETAD.ipynb notebook demonstrates how to download and apply an ETAD product to a sentinel-1 SLC. Two sets of credentials are required and should be set in the notebook:
-
-
-1) Earthdata credentials - https://urs.earthdata.nasa.gov/users/new
-
-2) Copernicus dataspace credentials - https://dataspace.copernicus.eu/
-
   
 
 # Usage
 
-  
+
+The ETAD.ipynb notebook demonstrates how to download and apply an ETAD product to a sentinel-1 SLC. 
+
 
 - A package management tool such as mamba (recommended) or anaconda is required
 
 - ``conda env create -f environment.yaml``
 
 - Run the ETAD.ipynb notebook
+
+
+# Credentials
+
+  
+Two sets of credentials are required and should be set in the notebook:
+
+
+1) Earthdata credentials - https://urs.earthdata.nasa.gov/users/new
+
+2) Copernicus dataspace credentials - https://dataspace.copernicus.eu/
